@@ -1,0 +1,6 @@
+{
+        "require": {
+                    "katzgrau/klogger": "1.0.*",
+                "symfony/yaml": "2.5.6"
+                        }
+}

@@ -1,0 +1,22 @@
+# A hook config
+TravelGuide-iOS:
+  hook-class: TravelGuideIOSHook
+  hook-shell:
+
+  push-over:
+    token: asocSMdTuMkgHks2kJrwNSJJXymcj8
+    user: u2AFytqT3dZnvb2UKfX37FgQTKN1Ha
+    devices:
+      - song-safari
+
+
+# A hook config
+test-lib2:
+   hook-class: GitlabHook
+   hook-shell: test.sh
+
+   push-over:
+       token: asocSMdTuMkgHks2kJrwNSJJXymcj8
+       user: u2AFytqT3dZnvb2UKfX37FgQTKN1Ha
+       devices:
+         - song-safari
